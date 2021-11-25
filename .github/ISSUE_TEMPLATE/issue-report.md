@@ -1,10 +1,6 @@
 ---
-name: Issue Report
-about: Create a report to issue
-title: ''
-labels: ''
-assignees: ''
-
+제목: Issue Report
+링크: "[링크](여기에 링크 입력 후 큰 따옴표 제거)" 
 ---
 
 
