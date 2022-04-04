@@ -1,4 +1,4 @@
-# 이펙티브 자바 3판 스터디
+# 이펙티브 자바 3판 스터디[종료]
 해당 스터디는 이펙티브 자바 3판 책의 아이템1부터 아이템90까지를 학습하는 스터디입니다.   
 이슈로 등록되는 코멘트와 글은 모두 GitLab 라이브러리를 이용해 참가자들의 참석율도 체크할 예정입니다. 
 
@@ -11,6 +11,10 @@
 - 매 주 일요일이 학습한 내용 발표일입니다. 
 - 12월은 오후 19시 ~ 22시(3시간)에 발표를 진행하며, 그 이후로는 다시 회의를 진행해 결정합니다. 
 - 발표주제는 당일 랜덤으로 배정되며 인원 수 이상의 아이템도 랜덤 배정됩니다. 
+
+# 일정 종료
+2022년 4월 3일자로 아이템 90번까지 모두 스터디 종료. 
+학습자료는 Issues탭의 Closed 탭에서 확인 가능 [link](https://github.com/devbook-study/effectivejava/issues?q=is%3Aissue+is%3Aclosed)
 
 # 참고 자료
 - [이펙티브자바 3판 번역 용어 설명](https://docs.google.com/document/d/1Nw-_FJKre9x7Uy6DZ0NuAFyYUCjBPCpINxqrP0JFuXk/edit)
